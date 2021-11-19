@@ -12,7 +12,7 @@ import android.widget.ImageButton;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
-
+//test입니당
 public class MainActivity extends AppCompatActivity {
 
     BottomNavigationView bottomNavigationView; //하단 네비게이션 변수명 지정
